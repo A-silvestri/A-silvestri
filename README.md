@@ -1,6 +1,6 @@
-## Axel Silvestri
+# Axel Silvestri
 
-# Hola, mi nombre es Axel Silvestri
+## Hola, mi nombre es Axel Silvestri
 
 Estudiante de la Tecnicatura en Desarrollo de Software - UPE
 
