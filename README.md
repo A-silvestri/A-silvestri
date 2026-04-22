@@ -1,4 +1,12 @@
-## Hi there 👋
+## Axel Silvestri
+
+# Hola, mi nombre es Axel Silvestri
+
+Estudiante de la Tecnicatura en Desarrollo de Software - UPE
+
+## Tecnologias
+-c/c++
+-Git/Github
 
 <!--
 **A-silvestri/A-silvestri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
