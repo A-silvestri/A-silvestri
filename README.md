@@ -8,7 +8,7 @@ Estudiante de la Tecnicatura en Desarrollo de Software - UPE
 
 -Git/Github
 
--Actualmente me encuentro aprendiendo Python
+-Actualmente me encuentro aprendiendo Python con Flask y SQlite
 
 <!--
 **A-silvestri/A-silvestri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
