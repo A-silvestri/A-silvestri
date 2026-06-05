@@ -8,6 +8,8 @@ Estudiante de la Tecnicatura en Desarrollo de Software - UPE
 
 -Git/Github
 
+-Actualmente me encuentro aprendiendo Python
+
 <!--
 **A-silvestri/A-silvestri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
